@@ -1,5 +1,4 @@
-### Olá gente bonita ;)
-
+Perfil para meus projetos e trabalhos do curso de Engenharia de Software
 <!--
 **yaggowu/yaggowu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
