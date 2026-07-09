@@ -1,4 +1,6 @@
-Perfil para meus projetos e trabalhos do curso de Engenharia de Software
+/* Estudante de Engenharia de Software no Centro Universitário Católica de Santa Catarina */
+/* Interessado em programação Back-End, programação de sistemas e IA. */
+/* Em busca de conhecimento e aberto à coisas novas */
 <!--
 **yaggowu/yaggowu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
